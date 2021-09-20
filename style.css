@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+}
+.login_div1,.login_div2 {
+    background-color: white;
+    padding:10px;
+    float:none;
+    border-radius:15px;
+}
+#player1,#player2 {
+    display:inline-block;    
+}
